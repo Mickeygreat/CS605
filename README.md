@@ -1,2 +1,2 @@
 # CS605
-Group project for SQL
+Database Design Project with SQL 
